@@ -46,9 +46,8 @@
 ---
 
 ### 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/sakshidudhe/](https://www.linkedin.com/in/sakshi-dudhe-65260a313/))
-[![Gmail](https://img.shields.io/badge/Gmail-dudhesakshi18@gmail.com-red?style=flat&logo=gmail)](mailto:sakshidudhe0121@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sakshi-dudhe-65260a313/)
+[![Gmail](https://img.shields.io/badge/Gmail-sakshidudhe0121@gmail.com-red?style=flat&logo=gmail)](mailto:sakshidudhe0121@gmail.com)
 
----
 
 ⭐️ *Thank you for visiting my profile! Let's grow and build together.* 🚀
