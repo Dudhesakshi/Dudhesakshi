@@ -11,7 +11,7 @@
 - 🌱 Currently learning: **Machine Learning, Streamlit, and Advanced Python**  
 - 👩‍💻 Actively building projects like **Credit Card Fraud Detection**, **Customer Churn Prediction**, and more  
 - 💬 Ask me about Python, OpenCV, Django.  
-- 📫 Reach me at: **dudhesakshi18@gmail.com**
+- 📫 Reach me at: **sakshidudhe0121@gmail.com**
 
 ---
 
