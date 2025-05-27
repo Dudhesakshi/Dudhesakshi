@@ -6,7 +6,7 @@
 ---
 
 ### 🌟 About Me:
-- 🎓 Final year student pursuing **B.E. in Computer Engineering**  
+- 🎓 Computer Engineering Graduate | 2025   
 - 🔍 Passionate about **AI/ML, Web Development**, and solving real-world problems with tech  
 - 🌱 Currently learning: **Machine Learning, Streamlit, and Advanced Python**  
 - 👩‍💻 Actively building projects like **Credit Card Fraud Detection**, **Customer Churn Prediction**, and more  
@@ -46,8 +46,8 @@
 ---
 
 ### 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sakshidudhe/)
-[![Gmail](https://img.shields.io/badge/Gmail-dudhesakshi18@gmail.com-red?style=flat&logo=gmail)](mailto:dudhesakshi18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/sakshidudhe/](https://www.linkedin.com/in/sakshi-dudhe-65260a313/))
+[![Gmail](https://img.shields.io/badge/Gmail-dudhesakshi18@gmail.com-red?style=flat&logo=gmail)](mailto:sakshidudhe0121@gmail.com)
 
 ---
 
