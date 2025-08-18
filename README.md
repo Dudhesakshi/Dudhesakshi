@@ -31,8 +31,7 @@
 
 ### 🛠️ Projects
 - 💻 [Credit Card Fraud Detection](#) – SMOTE + Random Forest + Streamlit UI  
-- 📊 [Customer Churn Prediction](#) – ML Model with Visualization  
-- 🎮 [Blackjack Game in Python](#) – Login System + MySQL Integration   
+- 📊 [Customer Churn Prediction](#) – ML Model with Visualization    
 - 🤖 [Automated PCB Defect Detection](#) – Image Processing + YOLOv8 + Streamlit Dashboard  
 
 ---
