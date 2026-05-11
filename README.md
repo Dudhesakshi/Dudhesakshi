@@ -3,7 +3,6 @@
 
 ### Java Full Stack Developer | AI/ML Enthusiast | Computer Engineering Graduate
 
-![](https://komarev.com/ghpvc/?username=Dudhesakshi&label=Profile%20Views&color=blue&style=flat)
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -104,12 +103,6 @@
 
 ---
 
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dudhesakshi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dudhesakshi&layout=compact&theme=tokyonight)
 
 # 🌐 Connect With Me
 
