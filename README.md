@@ -3,7 +3,7 @@
 <h3 align="center">Java Full Stack Developer | AI/ML Enthusiast | Computer Engineering Graduate</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Dudhesakshi&label=Profile%20views&color=0e75b6&style=flat" alt="Dudhesakshi" />
+  <img src="https://komarev.com/ghpvc/?username=Dudhesakshi&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
