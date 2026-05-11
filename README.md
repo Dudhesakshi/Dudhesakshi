@@ -97,7 +97,6 @@
 
 ## 🔍 Automated PCB Defect Detection
 
-```md id="y55k33"
 - Developed an AI-powered defect detection system for printed circuit boards
 - Used YOLOv8 + OpenCV for image processing and object detection
 - Created a Streamlit dashboard for real-time analysis
