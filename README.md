@@ -107,11 +107,9 @@
 
 # 📈 GitHub Stats
 
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dudhesakshi&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dudhesakshi&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dudhesakshi&layout=compact&theme=tokyonight)
-
----
 
 # 🌐 Connect With Me
 
@@ -126,6 +124,3 @@
 ---
 
 ⭐ Passionate about learning, building, and growing through technology.
-```
-
-
