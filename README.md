@@ -104,12 +104,12 @@
 
 ---
 
+
 # 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dudhesakshi&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudhesakshi&layout=compact&theme=tokyonight" width="48%" />
-</p>
+![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dudhesakshi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dudhesakshi&layout=compact&theme=tokyonight)
 
 ---
 
@@ -127,4 +127,5 @@
 
 ⭐ Passionate about learning, building, and growing through technology.
 ```
+
 
